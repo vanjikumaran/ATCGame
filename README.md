@@ -1,2 +1,2 @@
-# ATCGame
-Game deigned to simulate the ATC and Aircraft 
+# ATC Game
+Game designed to simulate the ATC and Aircraft 
